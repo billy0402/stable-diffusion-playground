@@ -7,6 +7,9 @@ name = "pypi"
 jupyterlab = "*"
 torch = "*"
 torchvision = "*"
+transformers = "==4.19.2"
+diffusers = "*"
+invisible-watermark = "*"
 
 [dev-packages]
 
