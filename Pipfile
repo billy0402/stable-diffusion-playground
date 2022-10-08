@@ -20,6 +20,7 @@ torchvision = {version = "*", index = "downloadpytorch"}
 transformers = "==4.19.2"
 diffusers = "*"
 invisible-watermark = "*"
+tensorflow-macos = "*"
 
 [dev-packages]
 
