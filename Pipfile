@@ -24,6 +24,7 @@ tensorflow-macos = "*"
 tensorflow-metal = "*"
 stable_diffusion_tf = {version = "*", git = "https://github.com/divamgupta/stable-diffusion-tensorflow.git"}
 tensorflow-addons = "*"
+ftfy = "*"
 
 [dev-packages]
 
