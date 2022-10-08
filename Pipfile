@@ -21,6 +21,7 @@ transformers = "==4.19.2"
 diffusers = "*"
 invisible-watermark = "*"
 tensorflow-macos = "*"
+tensorflow-metal = "*"
 
 [dev-packages]
 
