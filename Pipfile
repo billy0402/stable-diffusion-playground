@@ -17,7 +17,7 @@ name = "downloadpytorch"
 jupyterlab = "*"
 torch = {version = "*", index = "downloadpytorch"}
 torchvision = {version = "*", index = "downloadpytorch"}
-transformers = "==4.19.2"
+transformers = "*"
 diffusers = "*"
 invisible-watermark = "*"
 tensorflow-macos = "*"
